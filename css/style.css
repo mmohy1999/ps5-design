@@ -1,0 +1,33 @@
+body{
+  background: linear-gradient(to left, #434343, #000000);
+  font-family: 'Inconsolata', monospace;
+}
+main{
+  height: 100vh;
+}
+.display-5{
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+} 
+.sec-home .container .row {
+  height: 100%;
+
+}
+
+.sec-games .container{
+  border-top-left-radius: 70px;
+  border-top-right-radius: 70px;
+  background-color: white;
+}
+.sec-games img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 2px solid #0d6efd;
+  padding: 5px;
+}
+.sec-games .row .row{
+  border-right: 1px solid black;
+
+}
